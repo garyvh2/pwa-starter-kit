@@ -160,7 +160,7 @@ window.customElements.define('my-view4', MyView4);
 (🔎This page extends `PageViewElement` rather than `LitElement` as an optimization; for more details on that, check out the [conditional rendering]({{site.baseurl}}/configuring-and-personalizing#conditionally-rendering-views) section).
 
 ### Adding the page to the application
-Great! Now we that we have our new element, we need to add it to the application!
+Great! Now that we have our new element, we need to add it to the application!
 
 First, add it to each of the list of nav links. In the toolbar (the wide-screen view) add:
 ```html
